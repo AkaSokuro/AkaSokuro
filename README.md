@@ -1,5 +1,4 @@
 ### Hello! ☕
-**I am a programmer works on things I want to do.**
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akasokuro&theme=github_dark&border_color=5F5F5F)
 
