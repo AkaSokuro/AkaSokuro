@@ -8,9 +8,8 @@ I'm a teenage student learning on game developing and programming, I've started 
 - **Discord :** `Aka#8087` or [My Discord Server](https://discord.gg/QjZRfZv3gE)
 - **Email :** `me@akasokuro.xyz`
 
-
-[Profile Picture Source](https://twitter.com/gyaheung/status/1581883493394526208)
-
+---
+**[Profile Picture Source](https://twitter.com/gyaheung/status/1581883493394526208)**
 
 
 
