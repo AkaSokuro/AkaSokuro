@@ -9,6 +9,9 @@ I'm a teenage student learning on game developing and programming, I've started 
 - **Email :** `me@akasokuro.xyz`
 
 
+[Profile Picture Source](https://twitter.com/gyaheung/status/1581883493394526208)
+
+
 
 
 <!-- Hello -->
