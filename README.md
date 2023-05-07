@@ -1,6 +1,6 @@
 # ☕ Hello, It's Aka!
 
-I'm a teenage student learning on game developing and programming, I've started focusing on coding since mid 2020.
+I code.
 
 See [my gist](https://gist.github.com/AkaSokuro) for my Roblox scripts / code snippets.
 
