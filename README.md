@@ -1,6 +1,6 @@
 # ☕ Hello, It's Aka!
 
-I code.
+I'm quite inactive right now due to school and stuffs.
 
 See [my gist](https://gist.github.com/AkaSokuro) for my Roblox scripts / code snippets.
 
