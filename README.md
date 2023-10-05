@@ -1,6 +1,6 @@
 # ☕ Hello, It's Aka!
 
-I'm quite inactive right now due to school and stuffs.
+I do game code and random stuffs.
 
 See [my gist](https://gist.github.com/AkaSokuro) for my Roblox scripts / code snippets.
 
